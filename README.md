@@ -11,39 +11,33 @@
 ---
 
 ### 🛠️ Skills & Tools:
-- Programming: `Python`, `C++`
-- Core: `DSA`, `OOPs`, `Git`
-- AI/ML: `Numpy`, `Pandas`, `Matplotlib` *(expanding soon)*
-- Tools: `GitHub`, `VS Code`, `Linux basics`
+- **Programming**: `Python`, `C++`
+- **Core Subjects**: `DSA`, `OOPs`, `Git`
+- **AI/ML**: `Numpy`, `Pandas`, `Matplotlib`
+- **Tools**: `GitHub`, `VS Code`, `Linux Basics`
 
 ---
 
 ### 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishek-username&show_icons=true&theme=radical" alt="Abhishek's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek05-03&show_icons=true&theme=radical" alt="Abhishek's GitHub Stats" />
 </p>
 
 ---
 
-### 🔗 Connect with me:
-- 📫 Email: abhishek@example.com *(replace with your real email)*
+### 🌐 Connect With Me:
+- 📧 Email: [abhishekk79308@gmail.com](mailto:abhishekk79308@gmail.com)
 - 📷 Instagram: [@abhishek._.025](https://instagram.com/abhishek._.025)
+- 💬 Telegram: [@Abhishekydv92](https://t.me/Abhishekydv92)
+- 🔗 LinkedIn: [Abhishek Kumar](https://www.linkedin.com/in/abhishek-kumar-40262b275)
 
 ---
 
-*“Small town, big tech dreams.”* ✨
+> “Small-town mindset, big-time dreams.” 🚀  
+> _Let’s build the future, one line of code at a time._
 
-<!--
-**Abhishek05-03/Abhishek05-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile!;Always+learning+and+building.;Thanks+for+visiting!&center=true&width=500&height=45">
+</p>
